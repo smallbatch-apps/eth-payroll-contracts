@@ -1,0 +1,26 @@
+{
+  "name": "eth-payroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallbatch-apps/eth-payroll-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallbatch-apps/eth-payroll-contracts/issues"
+  },
+  "homepage": "https://github.com/smallbatch-apps/eth-payroll-contracts#readme",
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.34",
+    "ethers": "^4.0.30"
+  }
+}

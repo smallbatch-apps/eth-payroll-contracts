@@ -22,6 +22,6 @@
   "homepage": "https://github.com/smallbatch-apps/eth-payroll-contracts#readme",
   "dependencies": {
     "date-fns": "^2.0.0-alpha.34",
-    "ethers": "^4.0.30"
+    "ethers": "^4.0.49"
   }
 }
